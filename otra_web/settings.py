@@ -25,7 +25,7 @@ SECRET_KEY = 'b$q^j8+xh)+w==era07)vs8zaoh5*%&-6x*_zis=w-=*$4@p8y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['52.90.135.227','silioffenders.com','www.silioffenders.com']
 
 
 # Application definition
